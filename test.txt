@@ -1,0 +1,17 @@
+firebase login
+
+
+firebase init
+
+
+{
+  "hosting": {
+    "site": "krishnaa",
+
+    "public": "public",
+    ...
+  }
+}
+
+
+firebase deploy --only hosting:krishnaa
